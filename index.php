@@ -33,17 +33,69 @@
 
 		<header>
 
-			<div class="container"
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-"></div>
+					<div class="col-md-"></div>
+
+				</div>
+			</div>
 		</header>
 
 
+		<div class="container">
+			<div class="row">
 
+				<div clas="col-md-"></div>
+
+			</div>
+		</div>
+
+
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-"></div>
+				<div class="col-md-"></div>
+
+			</div>
+		</div>
+
+
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-"></div>
+				<div class="col-md-"></div>
+				<div class="col-md-"></div>
+				<div class="col-md-"></div>
+
+			</div>
+
+			<div class="row">
+
+					<div class="col-md-"></div>
+					<div class="col-md-"></div>
+					<div class="col-md-"></div>
+					<div class="col-md-"></div>
+
+			</div>
+		</div>
 	</body>
 
 
+	<footer>
 
+		<div class="container">
+			<div class="row">
 
+				<div class="col-md-"></div>
 
+			</div>
+		</div>
+
+	</footer>
 
 
 
