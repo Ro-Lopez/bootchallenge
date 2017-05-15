@@ -34,20 +34,23 @@
 
 	<body>
 
-s
+
 
 
 
 		<header>
 
-			<div class="container">
+			<div class="container text-center">
 				<div class="row">
 
-					<div class="col-md-3">
-						<p>something</p>
-					</div>
-					<div class="col-md-3">
-						<p>something else</p>
+
+
+						<div class="col-md-2">
+							<p>Logo</p>
+						</div>
+					<div class="col-md-4 col-md-offset-6">
+
+						<p>Top Navigation</p>
 					</div>
 
 				</div>
@@ -55,20 +58,31 @@ s
 		</header>
 
 
-		<div class="container">
+		<div class="container text-center">
 			<div class="row">
 
-				<div class="col-md-"></div>
+				<div class="col-md-12">
+					<p>Welcome Message</p>
+				</div>
 
 			</div>
 		</div>
 
 
-		<div class="container">
+		<div class="container text-center">
+
 			<div class="row">
 
-				<div class="col-md-"></div>
-				<div class="col-md-"></div>
+
+
+				<div class="col-md-3">
+					<p>photo</p>
+				</div>
+
+				<div class="col-md-8 col-md-offset-1">
+					<p>Text</p>
+
+				</div>
 
 			</div>
 		</div>
@@ -98,10 +112,12 @@ s
 
 	<footer>
 
-		<div class="container">
+		<div class="container text-center">
 			<div class="row">
 
-				<div class="col-md-"></div>
+				<div class="col-md-12">
+					<p>CopyRight Text</p>
+				</div>
 
 			</div>
 		</div>
