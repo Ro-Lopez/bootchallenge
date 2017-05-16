@@ -29,22 +29,14 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
 	</head>
 
-	<body class="sfooter">
 
+	<body class="sfooter">
 		<div class="sfooter-content">
 
 
-
-
-
-
-
-
-
-		<header>
+			<header>
 			<nav class="navbar navbar-default">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
@@ -57,13 +49,13 @@
 						</button>
 						<a class="navbar-brand" href="#">Bootstrap Challenge Demo</a>
 					</div>
+
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="main-menu">
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="https://github.com">Github</a></li>
 							<li><a href="https://espn.com">ESPN</a></li>
 							<li><a href="https://youtube.com">YouTube</a></li>
-
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
@@ -71,10 +63,7 @@
 		</header>
 
 
-
-
-
-		<!-- Welcome Section -->
+			<!-- Welcome Section -->
 		<section>
 			<div class="container">
 				<div class ="row">
@@ -85,37 +74,24 @@
 						</div>
 					</div>
 				</div>
-
 			</div>
-
-
 		</section>
 
 
-
-		<!-- Photo and text section -->
+			<!-- Photo and text section -->
 		<section class="bg-info text-center">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3">
 						<img class="img-responsive img-thumbnail" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThoZWBfigAkLpQE4FwlOwWgON_EtJvllbyrzNTL-RifkyOCZEIvw" alt="rottweiler">
-
 					</div>
 
 					<div class="md-col-9">
 						<p>An orbital scores before a fighter! The wrist hums around a gravitational monster. A dinner hurts next to the scream. A poster fevers a remainder on top of a wretched footnote. Each pole recovers behind an exhibit!</p>
-
 					</div>
-
-
 				</div>
-
 			</div>
-
-
 		</section>
-
-
 
 
 			<section>
@@ -191,27 +167,13 @@
 
 
 		<footer class="bg-info text-center">
-
 			<div class="container">
-
 				<div class="row">
-
 					<div class=".col-md-4 .col-md-offset-4">
 						footer text
-
 					</div>
 				</div>
 			</div>
-
-
 		</footer>
-
-
-
-
-
 	</body>
-
-
-
 </html>
