@@ -94,7 +94,7 @@
 
 
 		<!-- Photo and text section -->
-		<section class="bg-info">
+		<section class="bg-info text-center">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3">
@@ -194,7 +194,13 @@
 
 			<div class="container">
 
-				<div
+				<div class="row">
+
+					<div class=".col-md-4 .col-md-offset-4">
+						footer text
+
+					</div>
+				</div>
 			</div>
 
 
