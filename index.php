@@ -118,25 +118,86 @@
 
 
 
-		<section>
-			<div class="section">
-				<div class="row">
-					<div class="col-md-3"></div>
-					<div class="col-md-3"></div>
-					<div class="col-md-3"></div>
-					<div class="col-md-3"></div>
-				</div>
-			</div>
-		</section>
+			<section>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 text-center">
+							<!-- icon -->
+							<span class="fa-stack fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
 
+							<!-- panel -->
+							<div class="panel panel-default">
+								<div class="panel-body">
+									<h3>Humblebrag</h3>
+									<p>Selvage typewriter forage, craft beer vape glossier gastropub 3 wolf moon intelligentsia.</p>
+								</div>
+							</div>
+						</div><!--/.col-md-3 -->
 
+						<div class="col-md-3 text-center">
+							<!-- icon -->
+							<span class="fa-stack fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
 
+							<!-- panel -->
+							<div class="panel panel-default">
+								<div class="panel-body">
+									<h3>Humblebrag</h3>
+									<p>Selvage typewriter forage, craft beer vape glossier gastropub 3 wolf moon intelligentsia.</p>
+								</div>
+							</div>
+						</div><!--/.col-md-3 -->
+
+						<div class="col-md-3 text-center">
+							<!-- icon -->
+							<span class="fa-stack fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
+
+							<!-- panel -->
+							<div class="panel panel-default">
+								<div class="panel-body">
+									<h3>Humblebrag</h3>
+									<p>Selvage typewriter forage, craft beer vape glossier gastropub 3 wolf moon intelligentsia.</p>
+								</div>
+							</div>
+						</div><!--/.col-md-3 -->
+
+						<div class="col-md-3 text-center">
+							<!-- icon -->
+							<span class="fa-stack fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
+
+							<!-- panel -->
+							<div class="panel panel-default">
+								<div class="panel-body">
+									<h3>Humblebrag</h3>
+									<p>Selvage typewriter forage, craft beer vape glossier gastropub 3 wolf moon intelligentsia.</p>
+								</div>
+							</div>
+						</div><!--/.col-md-3 -->
+					</div><!--/.row-->
+				</div><!--/.container-->
+			</section>
 		</div>
 
 
-		<footer>
+		<footer class="bg-info text-center">
 
-			This is the footer
+			<div class="container">
+
+				<div
+			</div>
+
+
 		</footer>
 
 
