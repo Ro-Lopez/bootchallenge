@@ -45,8 +45,6 @@
 
 
 		<header>
-
-
 			<nav class="navbar navbar-default">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
@@ -59,7 +57,6 @@
 						</button>
 						<a class="navbar-brand" href="#">Bootstrap Challenge Demo</a>
 					</div>
-
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="main-menu">
 						<ul class="nav navbar-nav navbar-right">
@@ -71,16 +68,49 @@
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
 			</nav>
-
-
 		</header>
 
 
 
 
 
-
+		<!-- Welcome Section -->
 		<section>
+			<div class="container">
+				<div class ="row">
+					<div class="col-md-12">
+						<div class="jumbotron text-center">
+							<h1>Welcome to the Bootstrap Challenge</h1>
+							<p>A competing ace clouds the optimum lad. The bastard framework springs a verbatim pad. Across the trusting honey swallows a generic release. The mania apologizes.</p>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+
+		</section>
+
+
+
+		<!-- Photo and text section -->
+		<section class="bg-info">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<img class="img-responsive img-thumbnail" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThoZWBfigAkLpQE4FwlOwWgON_EtJvllbyrzNTL-RifkyOCZEIvw" alt="rottweiler">
+
+					</div>
+
+					<div class="md-col-9">
+						<p>An orbital scores before a fighter! The wrist hums around a gravitational monster. A dinner hurts next to the scream. A poster fevers a remainder on top of a wretched footnote. Each pole recovers behind an exhibit!</p>
+
+					</div>
+
+
+				</div>
+
+			</div>
 
 
 		</section>
@@ -89,16 +119,14 @@
 
 
 		<section>
-
-
-		</section>
-
-
-
-
-		<section>
-
-
+			<div class="section">
+				<div class="row">
+					<div class="col-md-3"></div>
+					<div class="col-md-3"></div>
+					<div class="col-md-3"></div>
+					<div class="col-md-3"></div>
+				</div>
+			</div>
 		</section>
 
 
