@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -12,7 +12,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
 		<!-- Font Awesome -->
-		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css" rel="stylesheet" />
+		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 
 		<!-- MY Custom CSS -->
 		<link rel="stylesheet" href="css/style.css" type="text/css">
@@ -32,7 +32,13 @@
 
 	</head>
 
-	<body>
+	<body class="sfooter">
+
+		<div class="sfooter-content">
+
+
+
+
 
 
 
@@ -40,87 +46,77 @@
 
 		<header>
 
-			<div class="container text-center">
-				<div class="row">
 
-
-
-						<div class="col-md-2">
-							<p>Logo</p>
-						</div>
-					<div class="col-md-4 col-md-offset-6">
-
-						<p>Top Navigation</p>
+			<nav class="navbar navbar-default">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#">Bootstrap Challenge Demo</a>
 					</div>
 
-				</div>
-			</div>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="main-menu">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="https://github.com">Github</a></li>
+							<li><a href="https://espn.com">ESPN</a></li>
+							<li><a href="https://youtube.com">YouTube</a></li>
+
+						</ul>
+					</div><!-- /.navbar-collapse -->
+				</div><!-- /.container-fluid -->
+			</nav>
+
+
 		</header>
 
 
-		<div class="container text-center">
-			<div class="row">
 
-				<div class="col-md-12">
-					<p>Welcome Message</p>
-				</div>
 
-			</div>
+
+
+		<section>
+
+
+		</section>
+
+
+
+
+		<section>
+
+
+		</section>
+
+
+
+
+		<section>
+
+
+		</section>
+
+
+
 		</div>
 
 
-		<div class="container text-center">
+		<footer>
 
-			<div class="row">
-
-
-
-				<div class="col-md-3">
-					<p>photo</p>
-				</div>
-
-				<div class="col-md-8 col-md-offset-1">
-					<p>Text</p>
-
-				</div>
-
-			</div>
-		</div>
+			This is the footer
+		</footer>
 
 
-		<div class="container">
-			<div class="row">
 
-				<div class="col-md-"></div>
-				<div class="col-md-"></div>
-				<div class="col-md-"></div>
-				<div class="col-md-"></div>
 
-			</div>
 
-			<div class="row">
-
-					<div class="col-md-"></div>
-					<div class="col-md-"></div>
-					<div class="col-md-"></div>
-					<div class="col-md-"></div>
-
-			</div>
-		</div>
 	</body>
 
 
-	<footer>
 
-		<div class="container text-center">
-			<div class="row">
-
-				<div class="col-md-12">
-					<p>CopyRight Text</p>
-				</div>
-
-			</div>
-		</div>
-
-	</footer>
 </html>
